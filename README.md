@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Event Management Project](https://vibevento.onrender.com)
 
-- 👨‍💻 All of my projects are available at [https://rafiqul0004.netlify.app/](https://rafiqul0004.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rafiqul0004.onrender.com/](https://rafiqul0004.onrender.com/)
 
 - 💬 Ask me about **C, C++, DSA, Database Management System, Python, Django, Rest Api**
 
